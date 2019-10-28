@@ -15,7 +15,7 @@ delay_print("Shall we play a game?\n\n")
 user_play = input("Please answer: Y or N\n")
 
 
-# For loop to see if user wants to play RPS
+# For loop to see if user wants to play RPSLS
 for instance in user_play:
     if user_play == "Y":
         print("""
